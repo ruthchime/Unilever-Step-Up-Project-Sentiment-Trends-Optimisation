@@ -7,47 +7,47 @@ It explores customer preferences and ethical product strategy for Ben & Jerry’
 
 ## 📊 Project Overview
 
-Using datasets from e-commerce platforms and social media (Brandwatch), I explored how Ben & Jerry’s can blend classic ice cream favourites with modern dietary trends — especially the rise in demand for vegan options.
+Using datasets from e-commerce platforms and social media (Brandwatch), I explored how Ben & Jerry’s can blend classic ice cream favourites with modern dietary trends — especially rising demand for vegan options.
 
 ---
 
 ## 🔧 Tools & Techniques Used
 
-- **Data Cleaning & Analysis** (Python / Pandas)
-- **Time Series Analysis** (seasonal trend detection)
-- **Sentiment Analysis** (from Brandwatch)
-- **Linear Programming** (to optimise flavour allocation)
-- **Data Visualisation** (Matplotlib, charts)
+- Data Cleaning & Analysis (Python / Pandas)
+- Time Series Analysis (Matplotlib)
+- Sentiment Analysis (Brandwatch data)
+- Linear Programming (SciPy)
+- Data Visualisation (Matplotlib, Canva)
+- Presentation (PowerPoint)
 
 ---
 
 ## 🧠 Key Insights
 
-- Ben & Jerry’s products rated 4.9–5.0 stars on average
-- Review volume peaked in **March & August** — key launch periods
-- Over **70% of social mentions included “vegan”**
-- LP model suggested allocating **55% of production** to top-rated vegan product
+- Products rated **4.9–5.0⭐** on average  
+- Review volume peaked in **March** and **August**  
+- Over **70% of social mentions** included the word “vegan”  
+- LP model recommended allocating **55%** of units to top-rated vegan flavor
 
 ---
 
-## 📈 Deliverables
+## 📈 Visual Insights
 
-- Data analysis notebook/script  
-- Time series and optimisation charts  
-- Slide deck summary  
-- Work experience certificate (May 2025)
+### 1. Review Trends Over Time
+![Review Trend](monthly_review_trend.png)
 
----
+### 2. Social Sentiment Breakdown
+![Social Sentiment](Sentiment_pie_Chart.png)
 
-## 📎 Certificate
-
-> **Unilever Step-Up Virtual Work Experience Certificate**  
-> Issued by Digdata in partnership with Unilever, May 2025
+### 3. Optimised Flavor Allocation
+![Optimization Chart](Lp_optimization_short.png)
 
 ---
 
-Thanks for viewing!  
-*Created by Ruth Chime* – MSc Business Analysis, University of Bolton
+## 📂 Project Files
 
+- [📊 View Slides (PDF)](Unilever_StepUP_Presentation_.pdf)
+- [📘 View Analysis Notebook](BenAndJerrys_Project.ipynb)
+- [🏅 View Certificate](Certificate.jpg)
 
 
